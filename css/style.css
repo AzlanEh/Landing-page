@@ -61,3 +61,11 @@ header {
   font-size: 115px;
   font-weight: 400;
 }
+
+#navpart-1 {
+  display: flex;
+}
+
+#navpart-3 {
+  display: flex;
+}
