@@ -47,11 +47,13 @@ header {
 }
 #navpart-2 a {
   border: #fff;
+  padding: 0px;
 }
 .text {
   width: 100%;
-  display: flex;
-  justify-content: center;
+  text-align: center;
+  /* display: flex;
+  justify-content: center; */
   position: absolute;
   top: 50%;
   left: 50%;
